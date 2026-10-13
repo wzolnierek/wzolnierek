@@ -22,4 +22,4 @@ I like history too. Ancient Rome and China are my favorites.
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/[wiktor-zolnierek]) · [wzolnierek@icloud.com](mailto:wzolnierek@icloud.com)
+[LinkedIn](https://linkedin.com/in/wiktor-zolnierek) · [wzolnierek@icloud.com](mailto:wzolnierek@icloud.com)
