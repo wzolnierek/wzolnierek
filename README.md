@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello, I'm Wiktor.
 
-<!--
-**wzolnierek/wzolnierek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student based in Poland. Frontend.
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Built with |
+|---|---|---|
+| [Watchlist](https://github.com/wzolnierek/watchlist) | My own app for tracking movies/TV series: add, edit and delete entries with status, score and progress, saved in localStorage | JavaScript, HTML, CSS |
+| [Restaurant Order App](https://github.com/wzolnierek/restaurant-order-app) | Menu with a cart, order total and checkout form | JavaScript |
+| [Twimba](https://github.com/wzolnierek/twimba) | Twitter-style feed with posting, replies and likes | JavaScript |
+
+## 🌱 Right now
+
+- Finishing the Scrimba Fullstack Path
+- Growing **Watchlist**: status tabs, sorting and stats are next
+
+## 📚 Off-screen
+
+Reading books, mostly fantasy.
+I like history too. Ancient Rome and China are my favorites.
+
+## 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/[]) · [wzolnierek@icloud.com](mailto:wzolnierek@icloud.com)
